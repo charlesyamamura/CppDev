@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/charlesyamamura/Projects/C++dev/section_2/TipCalculator/TipCalculator/calc'
+relocations:     []
+...

@@ -3,7 +3,7 @@ using namespace std;
 
 int main() {
     bool isSunny = true;
-    bool isWarm = false;
+    bool isWarm = true;
 
     cout << boolalpha;
 

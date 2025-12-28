@@ -1,0 +1,31 @@
+/* Keyboard Input Challenge */
+
+#include <iostream>
+#include <string>
+#include <limits>
+
+using namespace std;
+
+int main() {
+    string fullName;
+    string location;
+    int initialScore;
+
+    cout << "Please enter your full name: " << endl;
+    getline(cin, fullName);
+
+    cout << "Please enter your city, state/province and country: " << endl;
+    getline(cin, location);
+
+    cout << "Please enter your score (0 to 100): " << endl;
+    cin >> initialScore;
+    cin.ignore(numeric_limits<streamsize>::max(), '\n'); // clear buffer
+
+    cout << "Hello, " << fullName << "!" << endl;
+    cout << "We heard you are from " << location << "." << endl;
+    cout << "Your original score is " << initialScore << "." << endl;
+    cout << "However, with five points added, your score is " << (initialScore + 5) << ". Congrats!" << endl;
+
+    return 0;
+}
+
