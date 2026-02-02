@@ -1,0 +1,7 @@
+Employee Salary Report
+----------------------------------
+Number of valid employees: 15
+Total payroll: $2790999.00
+Average wage: $186066.60
+Employees earning over $100,000: 8
+Invalid salary entries ignored: 5

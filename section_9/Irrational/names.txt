@@ -1,0 +1,10 @@
+Pi
+Euler's Number
+Golden Ratio
+Square Root of 2
+Square Root of 3
+Square Root of 5
+Apery's Constant
+Champernowne's Constant
+Plastic Ratio
+Feigenbaum's Constant

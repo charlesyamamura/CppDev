@@ -1,0 +1,12 @@
+Student Roster
+---------------------
+Alice Johnson       . GPA: 3.80
+Bob Smith           . GPA: 2.90
+Charlie Baker       . GPA: 3.50
+Dana Lee            . GPA: 4.00
+Evan Grant          . GPA: 1.70
+Faith Liu           . GPA: 3.20
+George Hall         . GPA: 3.90
+
+Average GPA: 3.29
+Honor students: 3
